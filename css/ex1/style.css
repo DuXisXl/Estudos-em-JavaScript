@@ -1,0 +1,28 @@
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    color: white;
+}
+
+div[id="days-of-week"] h3 {
+    color: yellow;
+}
+
+div[id="days-of-week"] li {
+    color: white;
+}
+
+div[id="activities"] h2 {
+    border: 2px solid black;
+    background-color: yellow;
+}
+
+div[id="activities"] li {
+    color: white;
+}
+
+div[id="activities"] li[id="astronomy-class"] {
+    color: red;
+}

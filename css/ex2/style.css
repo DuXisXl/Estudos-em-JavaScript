@@ -1,0 +1,18 @@
+body{
+    background-color: #fffafa;
+}
+.post{
+    margin: 45 0 30 200
+}
+h1{
+    font-family: 'Montserrat', arial, helvetica, sans-serif;
+}
+.date{
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+.post-content{
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
+.date{
+    color: #008080
+}
